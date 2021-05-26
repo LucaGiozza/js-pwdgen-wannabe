@@ -10,6 +10,6 @@ var colore = prompt('Inserisci il tuo colore preferito');
 testo = parseInt(colore);
 console.log(colore);
 
-document.getElementById('password').innerHTML=nome
+document.getElementById('password').innerHTML=nome + cognome + colore
 'nomecognomecolorepreferito21';
 
