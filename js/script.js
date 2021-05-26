@@ -3,9 +3,10 @@ testo = parseInt(nome);
 console.log(nome);
 
 var cognome = prompt('Inserisci il tuo cognome');
-testo = parseInt(cognome);
+ testo = parseInt(cognome);
 console.log(cognome);
 
 var colore = prompt('Inserisci il tuo colore preferito');
 testo = parseInt(colore);
 console.log(colore);
+
