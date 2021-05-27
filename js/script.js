@@ -11,5 +11,5 @@ var colore = prompt('Inserisci il tuo colore preferito');
 console.log(colore);
 
 document.getElementById('password').innerHTML=nome + cognome + colore
-'nomecognomecolorepreferito21';
+;
 
